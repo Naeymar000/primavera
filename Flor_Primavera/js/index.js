@@ -1,5 +1,5 @@
 const title = document.querySelector('.title')
-const text = '  "Feliz inicio de mes"                                                  Curso 5to 3ra Informática'
+const text = '"Feliz inicio de mes"'
 
 // Create container for better responsive layout
 title.style.display = 'flex'
