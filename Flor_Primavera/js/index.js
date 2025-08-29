@@ -1,5 +1,5 @@
 const title = document.querySelector('.title')
-const text = '"Feliz inicio de mes"'
+const text = 'Feliz inicio de mes'
 
 // Create container for better responsive layout
 title.style.display = 'flex'
